@@ -1,0 +1,287 @@
+{
+  "instruction_batch_1.jsonl": {
+    "batch_id": "msgbatch_01UNoTUR5LR9jQU6Ut6qFDj1",
+    "batch_type": "instruction",
+    "batch_file": "batch_1.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:38:59.639828",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:42:28.308560",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\instruction_results\\results_batch_1.jsonl",
+    "downloaded_at": "2025-08-04T10:42:32.073431"
+  },
+  "instruction_batch_2.jsonl": {
+    "batch_id": "msgbatch_018mZJ9qGoNx5WJRCCrneTaj",
+    "batch_type": "instruction",
+    "batch_file": "batch_2.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:03.350282",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:41:06.096727",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\instruction_results\\results_batch_2.jsonl",
+    "downloaded_at": "2025-08-04T10:41:11.819077"
+  },
+  "instruction_batch_3.jsonl": {
+    "batch_id": "msgbatch_01WZXyegxYG3C8CsisdaDBnN",
+    "batch_type": "instruction",
+    "batch_file": "batch_3.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:06.982441",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:42:28.608704",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\instruction_results\\results_batch_3.jsonl",
+    "downloaded_at": "2025-08-04T10:42:33.722071"
+  },
+  "instruction_batch_4.jsonl": {
+    "batch_id": "msgbatch_01BnAUT1JoUA7UADPUHqJHgX",
+    "batch_type": "instruction",
+    "batch_file": "batch_4.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:10.764482",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:50:15.244458",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\instruction_results\\results_batch_4.jsonl",
+    "downloaded_at": "2025-08-04T10:50:17.325049"
+  },
+  "instruction_batch_5.jsonl": {
+    "batch_id": "msgbatch_01Ui7ArSYDfuQPtEH7KStyQh",
+    "batch_type": "instruction",
+    "batch_file": "batch_5.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:14.560861",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:42:29.351503",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\instruction_results\\results_batch_5.jsonl",
+    "downloaded_at": "2025-08-04T10:42:35.026715"
+  },
+  "input_batch_1.jsonl": {
+    "batch_id": "msgbatch_01B8kS1d87V9X2LCFWmp4AP3",
+    "batch_type": "input",
+    "batch_file": "batch_1.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:16.612055",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:42:29.688583",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\input_results\\results_batch_1.jsonl",
+    "downloaded_at": "2025-08-04T10:42:36.265654"
+  },
+  "input_batch_2.jsonl": {
+    "batch_id": "msgbatch_014E5sfFSeXACfoiQgTKNndQ",
+    "batch_type": "input",
+    "batch_file": "batch_2.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:20.242090",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:40:30.822966",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\input_results\\results_batch_2.jsonl",
+    "downloaded_at": "2025-08-04T10:40:35.328570"
+  },
+  "input_batch_3.jsonl": {
+    "batch_id": "msgbatch_01Ph54hWoxjfZZiaaDQveuNa",
+    "batch_type": "input",
+    "batch_file": "batch_3.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:24.018578",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:41:07.672476",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\input_results\\results_batch_3.jsonl",
+    "downloaded_at": "2025-08-04T10:41:13.642521"
+  },
+  "input_batch_4.jsonl": {
+    "batch_id": "msgbatch_01J6UvxrpDeYSxEtCYW7iFLx",
+    "batch_type": "input",
+    "batch_file": "batch_4.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:27.602293",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:41:08.028219",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\input_results\\results_batch_4.jsonl",
+    "downloaded_at": "2025-08-04T10:41:15.151654"
+  },
+  "input_batch_5.jsonl": {
+    "batch_id": "msgbatch_0165HnjQSLQwy2bnBB2BNU9H",
+    "batch_type": "input",
+    "batch_file": "batch_5.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:36.007692",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:41:47.321085",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\input_results\\results_batch_5.jsonl",
+    "downloaded_at": "2025-08-04T10:41:50.716682"
+  },
+  "output_batch_1.jsonl": {
+    "batch_id": "msgbatch_014Un7RAXi9TKQoFjjx41H1S",
+    "batch_type": "output",
+    "batch_file": "batch_1.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:37.713719",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:42:30.008553",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\output_results\\results_batch_1.jsonl",
+    "downloaded_at": "2025-08-04T10:42:38.478615"
+  },
+  "output_batch_2.jsonl": {
+    "batch_id": "msgbatch_01Ji3zxhnLXWahFVJoCnKE5e",
+    "batch_type": "output",
+    "batch_file": "batch_2.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:41.397532",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:41:47.964817",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\output_results\\results_batch_2.jsonl",
+    "downloaded_at": "2025-08-04T10:41:52.795058"
+  },
+  "output_batch_3.jsonl": {
+    "batch_id": "msgbatch_0125nhf3KoGs4iXkseoEsRR4",
+    "batch_type": "output",
+    "batch_file": "batch_3.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:45.180984",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:41:48.275742",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\output_results\\results_batch_3.jsonl",
+    "downloaded_at": "2025-08-04T10:41:54.205335"
+  },
+  "output_batch_4.jsonl": {
+    "batch_id": "msgbatch_017shw1y1LhqG64n2uYzCKwv",
+    "batch_type": "output",
+    "batch_file": "batch_4.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:48.911372",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:41:48.567274",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\output_results\\results_batch_4.jsonl",
+    "downloaded_at": "2025-08-04T10:41:56.361968"
+  },
+  "output_batch_5.jsonl": {
+    "batch_id": "msgbatch_01B5fSzKFXU1PFL6FadjeCAg",
+    "batch_type": "output",
+    "batch_file": "batch_5.jsonl",
+    "status": "ended",
+    "submitted_at": "2025-08-04T10:39:52.516027",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-04T10:41:48.890153",
+    "results_file": "E:\\MCS_Project\\BatchCreator\\batchesWithInput\\Results\\output_results\\results_batch_5.jsonl",
+    "downloaded_at": "2025-08-04T10:41:57.737235"
+  }
+}

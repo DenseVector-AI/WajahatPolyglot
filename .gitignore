@@ -1,0 +1,22 @@
+# Ignore everything by default
+*
+
+# But allow these files and directories
+!.gitignore
+!README.md
+!Datasets/
+!Datasets/**
+
+# Still ignore some specific patterns even in allowed directories
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.Python
+**/env/
+**/venv/
+**/.venv/
+**/.env
+**/*.log
+**/.DS_Store
+**/Thumbs.db

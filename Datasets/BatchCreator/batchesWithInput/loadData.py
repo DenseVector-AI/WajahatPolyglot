@@ -1,0 +1,38 @@
+import pandas as pd
+import json
+import os
+
+alpaca_parquet_path = "hf://datasets/tatsu-lab/alpaca/data/train-00000-of-00001-a09b74b3ef9c3b56.parquet"
+
+print(f"Loading Alpaca dataset from: {alpaca_parquet_path}")
+try:
+    alpaca_df = pd.read_parquet(alpaca_parquet_path, engine="pyarrow")
+    print(f"Alpaca dataset loaded. Total entries: {len(alpaca_df)}")
+except Exception as e:
+    print(f"Error loading Parquet file: {e}")
+    exit()
+
+# filter to only entries with non-empty "input"
+alpaca_filtered = alpaca_df[alpaca_df["input"].str.strip() != ""]
+print(f"Total Alpaca entries with non-empty input: {len(alpaca_filtered)}")
+
+# take only the first 2,500 of those
+alpaca_subset = alpaca_filtered.iloc[:2500][["instruction", "input", "output"]]
+print(f"Selected {len(alpaca_subset)} Alpaca entries (first 2,500 non-empty inputs).")
+
+final_dataset = [
+    {"instruction": row["instruction"], "input": row["input"], "output": row["output"]}
+    for _, row in alpaca_subset.iterrows()
+]
+print(f"Total entries in final dataset: {len(final_dataset)}")
+
+# write out to JSONL
+output_path = os.path.join(os.getcwd(), "alpaca_data_with_input.jsonl")
+print(f"Writing dataset to: {output_path}")
+try:
+    with open(output_path, "w", encoding="utf-8") as fout:
+        for record in final_dataset:
+            fout.write(json.dumps(record, ensure_ascii=False) + "\n")
+    print(f"Done! Wrote {len(final_dataset)} entries to {output_path}")
+except Exception as e:
+    print(f"Error writing file '{output_path}': {e}")

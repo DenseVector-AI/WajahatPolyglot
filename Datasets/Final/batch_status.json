@@ -1,0 +1,257 @@
+{
+  "batch_1.jsonl": {
+    "batch_id": "msgbatch_0173TwgcHRLcB4e5Ri5E7feh",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:55:34.924737",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:58:26.133667",
+    "results_file": "Final/batch_results\\results_batch_1.jsonl",
+    "downloaded_at": "2025-08-01T13:58:29.073931"
+  },
+  "batch_2.jsonl": {
+    "batch_id": "msgbatch_017sVWW8PFrJrBt8jCmtfGwC",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:55:38.604047",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:36.425412",
+    "results_file": "Final/batch_results\\results_batch_2.jsonl",
+    "downloaded_at": "2025-08-01T13:57:41.871437"
+  },
+  "batch_3.jsonl": {
+    "batch_id": "msgbatch_014w1Jn7TG6hAze5VkNp9xgB",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:55:42.338803",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:36.716688",
+    "results_file": "Final/batch_results\\results_batch_3.jsonl",
+    "downloaded_at": "2025-08-01T13:57:42.972581"
+  },
+  "batch_4.jsonl": {
+    "batch_id": "msgbatch_01NseBqh5Hr4DYXxqhtWyM4v",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:55:45.997478",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:37.004878",
+    "results_file": "Final/batch_results\\results_batch_4.jsonl",
+    "downloaded_at": "2025-08-01T13:57:45.135374"
+  },
+  "batch_5.jsonl": {
+    "batch_id": "msgbatch_013vsJGTvVjugUEodmGBUgxk",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:55:49.749622",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:37.285632",
+    "results_file": "Final/batch_results\\results_batch_5.jsonl",
+    "downloaded_at": "2025-08-01T13:57:46.193855"
+  },
+  "batch_6.jsonl": {
+    "batch_id": "msgbatch_01AJq2Eq5ibB5Qmd4eMfL86y",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:55:53.447662",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:37.576496",
+    "results_file": "Final/batch_results\\results_batch_6.jsonl",
+    "downloaded_at": "2025-08-01T13:57:47.990711"
+  },
+  "batch_7.jsonl": {
+    "batch_id": "msgbatch_01LzPXXVTPJSkmbCZEVGEXbQ",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:55:57.136989",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:37.866917",
+    "results_file": "Final/batch_results\\results_batch_7.jsonl",
+    "downloaded_at": "2025-08-01T13:57:49.068403"
+  },
+  "batch_8.jsonl": {
+    "batch_id": "msgbatch_013EQWkCTG4S44YEDSdXvTn4",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:56:00.848607",
+    "request_count": 499,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 499
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:38.152816",
+    "results_file": "Final/batch_results\\results_batch_8.jsonl",
+    "downloaded_at": "2025-08-01T13:57:50.186814"
+  },
+  "batch_9.jsonl": {
+    "batch_id": "msgbatch_01Jpt2nBY6Ai64RXZwoMtWVr",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:56:04.497257",
+    "request_count": 499,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 499
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:38.463519",
+    "results_file": "Final/batch_results\\results_batch_9.jsonl",
+    "downloaded_at": "2025-08-01T13:57:51.974318"
+  },
+  "batch_10.jsonl": {
+    "batch_id": "msgbatch_01VG9ue42ewj2iqoyTgnipys",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:56:08.223999",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:38.742443",
+    "results_file": "Final/batch_results\\results_batch_10.jsonl",
+    "downloaded_at": "2025-08-01T13:57:54.028887"
+  },
+  "batch_11.jsonl": {
+    "batch_id": "msgbatch_01URkmgDzJr7SJsLGLzx1qZi",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:56:11.776536",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:57:39.025844",
+    "results_file": "Final/batch_results\\results_batch_11.jsonl",
+    "downloaded_at": "2025-08-01T13:57:55.785241"
+  },
+  "batch_12.jsonl": {
+    "batch_id": "msgbatch_01HmkDEAgdc278fnyk56gB9o",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:56:15.757056",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:58:26.446328",
+    "results_file": "Final/batch_results\\results_batch_12.jsonl",
+    "downloaded_at": "2025-08-01T13:58:30.885052"
+  },
+  "batch_13.jsonl": {
+    "batch_id": "msgbatch_01UEPRMQdtGYxKBisD5yvUFS",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:56:19.501633",
+    "request_count": 499,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 499
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:58:26.744110",
+    "results_file": "Final/batch_results\\results_batch_13.jsonl",
+    "downloaded_at": "2025-08-01T13:58:32.672133"
+  },
+  "batch_14.jsonl": {
+    "batch_id": "msgbatch_01HvayzXNFMrBDt2PYotGGj7",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:56:23.357497",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:58:27.035934",
+    "results_file": "Final/batch_results\\results_batch_14.jsonl",
+    "downloaded_at": "2025-08-01T13:58:34.421750"
+  },
+  "batch_15.jsonl": {
+    "batch_id": "msgbatch_01UGaD1tEHJXwKv4WQjMFMef",
+    "status": "ended",
+    "submitted_at": "2025-08-01T13:56:27.003847",
+    "request_count": 500,
+    "request_counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 500
+    },
+    "results_downloaded": true,
+    "updated_at": "2025-08-01T13:58:27.340429",
+    "results_file": "Final/batch_results\\results_batch_15.jsonl",
+    "downloaded_at": "2025-08-01T13:58:35.527120"
+  }
+}
