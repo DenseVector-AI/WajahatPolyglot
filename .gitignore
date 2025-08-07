@@ -6,6 +6,8 @@
 !README.md
 !Datasets/
 !Datasets/**
+!Llama_8b_finetuneDataset
+!Llama_8b_finetuneDataset/**
 
 # Still ignore some specific patterns even in allowed directories
 **/__pycache__/
